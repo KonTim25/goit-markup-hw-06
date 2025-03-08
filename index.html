@@ -50,17 +50,15 @@
             </li>
           </ul>
         </address>
-        <button type="button" class="burger-btn">
+        <button type="button" class="burger-btn" data-menu-open>
           <svg class="burger-icon" width="24" height="24">
             <use href="./images/icons.svg#icon-burger"></use>
           </svg>
         </button>
       </div>
-      <!-- <div class="mobile-menu is-open"> -->
-      <div class="mobile-menu">
+      <div class="mobile-menu" data-menu>
         <div class="container mobile-menu-container">
-          <!-- <button class="mobile-menu-close">X</button> -->
-          <button type="button" class="btn-close">
+          <button type="button" class="btn-close" data-menu-close>
             <svg class="btn-close-icon" width="8" height="8">
               <use href="./images/icons.svg#icon-btn-close"></use>
             </svg>
@@ -131,7 +129,9 @@
       <section class="section-top">
         <div class="container">
           <h1 class="page-title">Effective Solutions for Your Business</h1>
-          <button class="button-top" type="button">Order Service</button>
+          <button class="button-top" type="button" data-modal-open>
+            Order Service
+          </button>
         </div>
       </section>
 
@@ -569,10 +569,9 @@
       </div>
     </footer>
 
-    <div class="modal-overlay is-open">
-      <!-- <div class="modal-overlay"> -->
+    <div class="modal-overlay" data-modal>
       <div class="modal">
-        <button type="button" class="btn-close">
+        <button type="button" class="btn-close" data-modal-close>
           <svg class="btn-close-icon" width="8" height="8">
             <use href="./images/icons.svg#icon-btn-close"></use>
           </svg>
@@ -659,5 +658,8 @@
         </form>
       </div>
     </div>
+
+    <script src="./js/menu.js"></script>
+    <script src="./js/modal.js"></script>
   </body>
 </html>
