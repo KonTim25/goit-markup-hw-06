@@ -863,10 +863,6 @@ button {
     width: 768px;
   }
 
-  .footer-content {
-    /* width: calc((100% - 24px) / 2); */
-  }
-
   .logo-and-text,
   .social-title,
   .subscribe-title {
@@ -875,7 +871,6 @@ button {
 
   .subscribe-form {
     flex-direction: row;
-    /* justify-content: left; */
     gap: 24px;
   }
 
