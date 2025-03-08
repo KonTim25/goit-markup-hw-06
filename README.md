@@ -1,6 +1,13 @@
-# goit-markup-hw-05
+# goit-markup-hw-06
 
-Homework 5
+Homework 6
+
+## Корисні ресурси для Homework 6
+
+Додаткові матеріали:
+
+- Responsive images - https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images
+- Адаптивне модальне вікно https://codepen.io/NatalieValikova/pen/jRKazQ
 
 ## Корисні ресурси для Homework 5
 
@@ -9,6 +16,11 @@ Homework 5
 - Ваша перша HTML форма - https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
 - Зміна кольору плейсхолдера на фокус: https://codepen.io/mpadalko/pen/JjvvMoE?editors=1100
 - Додавання нових іконок до існуючого спрайту https://www.loom.com/share/57e2b4fc812a469587eb3884ad2352c1
+- Тримайте відео з реалізацією модального вікна - https://www.loom.com/share/61ec4e9119e34240949a90c4dd8bea21
+- Посилання на репозиторій - https://github.com/SergeyKorobka/goit-markup-example-05
+- Посилання на скрипт для відкриття модального вікна - https://gist.github.com/SergeyKorobka/031b7e6d986052b13acbce17d52852c9
+
+p.s. Підключення скрипта не є обовʼязковою умовою, його можна підключити додатково за бажанням
 
 ## Корисні ресурси для Homework 4
 
